@@ -1,0 +1,17 @@
+{
+  "name": "jyuno426/marathon",
+  "owner": {
+    "name": "jyuno426"
+  },
+  "plugins": [
+    {
+      "name": "marathon",
+      "source": {
+        "source": "github",
+        "repo": "jyuno426/marathon"
+      },
+      "description": "Long-running autonomous development harness with multi-agent orchestration patterns",
+      "version": "1.0.0"
+    }
+  ]
+}
